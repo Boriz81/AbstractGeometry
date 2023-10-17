@@ -8,6 +8,7 @@ using System.Windows.Forms;
 using System.Runtime.InteropServices;
 using System.Drawing.Text;
 
+// master //
 namespace AbstractGeometry
 {
 	class Program
